@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap&perline=12" />
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,docker,emotion,express,figma,firebase,git,graphql,html,ai,js,jest,jquery,linux,materialui,mongodb,nextjs,nodejs,npm,ps,postgres,postman,prisma,react,redux,sass,styledcomponents,tailwind,ts,vim,vscode,vite&perline=12" />
   </a>
 </p>
 <br>
